@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reyes/build/static/css/main.f855e6bc.css",
+    "main.js": "/reyes/build/static/js/main.17b39509.js",
+    "static/js/453.7f09c5e9.chunk.js": "/reyes/build/static/js/453.7f09c5e9.chunk.js",
+    "static/media/logo.svg": "/reyes/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reyes/build/index.html",
+    "main.f855e6bc.css.map": "/reyes/build/static/css/main.f855e6bc.css.map",
+    "main.17b39509.js.map": "/reyes/build/static/js/main.17b39509.js.map",
+    "453.7f09c5e9.chunk.js.map": "/reyes/build/static/js/453.7f09c5e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.17b39509.js"
+  ]
+}
